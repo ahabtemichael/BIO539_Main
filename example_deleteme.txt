@@ -2,5 +2,6 @@ This is a file I can delete
 We are using git to commit
 I am adding this third line 
 I am working on a fourth line
-Samrawit connected with you
+Samrawit connected with you earlier
+
 
