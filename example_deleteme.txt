@@ -1,8 +1,10 @@
-This is a file I can delete and update as i like
+Asta says -> This is a file I can delete and update as i like
 This is a file I can delete any time and update
 We are using git to commit
 I am adding this third line 
 I am working on a fourth line
 Samrawit connected with you earlier
 I am making a change to the last line
+Kira is now contributing to this folder
+
 
