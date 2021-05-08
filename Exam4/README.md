@@ -31,7 +31,7 @@ Usage:
 py.test
 
 Description:
-This script tests each of the four functions in script1.py using three different sequences. 
+This script tests the four functions contained in script1.py using three different sequences. 
 
 ### Sequence data file (sequence.csv) ###
 
