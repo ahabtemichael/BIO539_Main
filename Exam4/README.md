@@ -38,4 +38,4 @@ This script tests the four functions contained in script1.py using three differe
 Usage:
 To run this data file using *script1.py:*
 
-python3 *script1.py* sequences.csv
+python3 *script1.py* sequence.csv
